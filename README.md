@@ -61,4 +61,4 @@ modify the notebooks.
 [neural-mnist-2]: notebooks/3_Neural_Network-based_Image_Classifier-2.ipynb
 [convnet-mnist]: notebooks/4_Convolutional_Neural_Network-based_Image_Classifier.ipynb
 [vggnet-imagenet]: notebooks/5_VGG_Net_16_the_easy_way.ipynb
-[todo]: TODO
+[todo]: notebooks/6_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
