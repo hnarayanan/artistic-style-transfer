@@ -50,7 +50,7 @@ modify the notebooks.
 3. [A neural network-based classifier for MNIST data (Attempt 2)][neural-mnist-2]
 4. [A convolutional neural network-based classifier for MNIST data][convnet-mnist]
 5. [VGG Net (16) on ImageNet, the easy way][vggnet-imagenet]
-6. [Artistic style transfer with a repurposed VGG Net (16)[todo]
+6. [Artistic style transfer with a repurposed VGG Net (16)][todo]
 
 
 [blog-post]: https://harishnarayanan.org/writing/artistic-style-transfer/
