@@ -56,9 +56,9 @@ modify the notebooks.
 [blog-post]: https://harishnarayanan.org/writing/artistic-style-transfer/
 [support-issue]: https://github.com/hnarayanan/artistic-style-transfer/issues
 [twitter]: https://twitter.com/copingbear
-[linear-mnist]: (notebooks/1. Linear Image Classifier.ipynb)
-[neural-mnist-1]: (notebooks/2. Neural Network-based Image Classifier (Attempt 1).ipynb)
-[neural-mnist-2]: (notebooks/3. Neural Network-based Image Classifier (Attempt 2).ipynb)
-[convnet-mnist]: (notebooks/4. Convolutional Neural Network-based Image Classifier.ipynb)
-[vggnet-imagenet]: (notebooks/5. VGG Net (16) the easy way.ipynb)
+[linear-mnist]: notebooks/1. Linear Image Classifier.ipynb
+[neural-mnist-1]: notebooks/2. Neural Network-based Image Classifier (Attempt 1).ipynb
+[neural-mnist-2]: notebooks/3. Neural Network-based Image Classifier (Attempt 2).ipynb
+[convnet-mnist]: notebooks/4. Convolutional Neural Network-based Image Classifier.ipynb
+[vggnet-imagenet]: notebooks/5. VGG Net (16) the easy way.ipynb
 [todo]: TODO
