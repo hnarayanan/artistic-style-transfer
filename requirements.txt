@@ -22,7 +22,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==4.4.0
 jupyter-console==5.1.0
-jupyter-core==4.2.1
+jupyter-core==4.3.0
 Keras==1.2.2
 MarkupSafe==0.23
 matplotlib==2.0.0
@@ -56,7 +56,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 subprocess32==3.2.7
-tensorflow==0.12.1
+tensorflow==1.0.0
 terminado==0.6
 testpath==0.3
 Theano==0.8.2
