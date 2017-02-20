@@ -36,7 +36,19 @@ requirements needed for the Jupyter notebooks.
    pip install -r requirements.txt
    ````
 
-4. That's it! You can now start Jupyter and browse, open, run and
+4. If it doesn't exist, create a file called `~/.keras/keras.json` and
+make sure it looks like the following:
+
+   ````
+   {
+       "image_dim_ordering": "tf",
+       "epsilon": 1e-07,
+       "floatx": "float32",
+       "backend": "tensorflow"
+   }
+   ````
+
+5. That's it! You can now start Jupyter and browse, open, run and
 modify the notebooks.
 
    ````
