@@ -1,12 +1,13 @@
 # Convolutional neural networks for artistic style transfer
 
 This repository contains (TensorFlow and Keras) code that goes along
-with a [related blog post][blog-post]. Together, they act as a
-systematic look at convolutional neural networks from theory to
-practice, using artistic style transfer as a motivating example. The
-blog post provides context and covers the underlying theory, while
-working through the Jupyter notebooks in this repository offers a more
-hands-on learning experience.
+with a [related blog post][blog-post] and [talk
+(PDF)][talk-slides]. Together, they act as a systematic look at
+convolutional neural networks from theory to practice, using artistic
+style transfer as a motivating example. The blog post provides context
+and covers the underlying theory, while working through the Jupyter
+notebooks in this repository offers a more hands-on learning
+experience.
 
 If you have any questions about any of this stuff, feel free to [open
 an issue][support-issue] or tweet at me: [@copingbear][twitter].
@@ -57,6 +58,8 @@ modify the notebooks.
 
 ## Contents
 
+### iPython Notebooks
+
 1. [A linear classifier for MNIST data][linear-mnist]
 2. [A neural network-based classifier for MNIST data (Attempt 1)][neural-mnist-1]
 3. [A neural network-based classifier for MNIST data (Attempt 2)][neural-mnist-2]
@@ -64,8 +67,14 @@ modify the notebooks.
 5. [VGG Net (16) on ImageNet, the easy way][vggnet-imagenet]
 6. [Artistic style transfer with a repurposed VGG Net (16)][todo]
 
+### External Resources
+
+1. [Related blog post][blog-post]
+2. [Related talk slides][talk-slides]
+
 
 [blog-post]: https://harishnarayanan.org/writing/artistic-style-transfer/
+[talk-slides]: https://www.dropbox.com/s/969r7dj5nlboh7v/slides.pdf?dl=0
 [support-issue]: https://github.com/hnarayanan/artistic-style-transfer/issues
 [twitter]: https://twitter.com/copingbear
 [linear-mnist]: notebooks/1_Linear_Image_Classifier.ipynb
