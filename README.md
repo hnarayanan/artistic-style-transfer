@@ -32,7 +32,7 @@ requirements needed for the Jupyter notebooks.
 
    ````
    cd artistic-style-transfer
-   virtualenv --distribute --no-site-packages venv
+   virtualenv venv
    source venv/bin/activate
    pip install -r requirements.txt
    ````
@@ -65,7 +65,7 @@ modify the notebooks.
 3. [A neural network-based classifier for MNIST data (Attempt 2)][neural-mnist-2]
 4. [A convolutional neural network-based classifier for MNIST data][convnet-mnist]
 5. [VGG Net (16) on ImageNet, the easy way][vggnet-imagenet]
-6. [Artistic style transfer with a repurposed VGG Net (16)][todo]
+6. [Artistic style transfer with a repurposed VGG Net (16)][style-transfer]
 
 ### External Resources
 
@@ -82,4 +82,4 @@ modify the notebooks.
 [neural-mnist-2]: notebooks/3_Neural_Network-based_Image_Classifier-2.ipynb
 [convnet-mnist]: notebooks/4_Convolutional_Neural_Network-based_Image_Classifier.ipynb
 [vggnet-imagenet]: notebooks/5_VGG_Net_16_the_easy_way.ipynb
-[todo]: notebooks/6_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
+[style-transfer]: notebooks/6_Artistic_style_transfer_with_a_repurposed_VGG_Net_16.ipynb
