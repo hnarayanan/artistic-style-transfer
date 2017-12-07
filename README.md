@@ -74,7 +74,7 @@ modify the notebooks.
 
 
 [blog-post]: https://harishnarayanan.org/writing/artistic-style-transfer/
-[talk-slides]: https://www.dropbox.com/s/969r7dj5nlboh7v/slides.pdf?dl=1
+[talk-slides]: https://speakerdeck.com/hnarayanan/convolutional-neural-networks-for-artistic-style-transfer
 [support-issue]: https://github.com/hnarayanan/artistic-style-transfer/issues
 [twitter]: https://twitter.com/copingbear
 [linear-mnist]: notebooks/1_Linear_Image_Classifier.ipynb
